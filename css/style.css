@@ -238,13 +238,13 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 550px;
 }
 
 .container img{
     margin-right: 20px;
     border-radius: 10px;
-    width: 750px;
+    width: 650px;
 }
 
 .loginForm{
@@ -276,7 +276,7 @@ span {
 button{
     width: 100%;
     padding: 15px;
-    background-color: #007bff;
+    background-color: #E62E34;
     color: white;
     border: none;
     border-radius: 5px;
@@ -286,7 +286,7 @@ button{
 }
 
 button:hover{
-    background-color: #0056b3;
+    background-color: #E62E34;
 }
 
 .loginForm p{
@@ -295,7 +295,7 @@ button:hover{
 }
 
 .loginForm a{
-    color: #007bff;
+    color: #E62E34;
     text-decoration: none;
 }
 
